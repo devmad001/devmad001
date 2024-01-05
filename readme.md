@@ -2,7 +2,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;border-radius: 30%;">
 
 <div align="center">
-  <h1 align="center">✩&emsp;hades&emsp;✩</h1>
+  <h1 align="center">✩&emsp;Happy Smile&emsp;✩</h1>
   <a href="#" target="_blank"><img src="./full.svg" alt="I'm a fullstack developer" width="50%" /></a>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Kenia&color=%2336BCF7F0&center=true&size=30" width="50%">
   <!-- <p align="center"> 
@@ -52,19 +52,7 @@
       <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hades255&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true">
     </a>
   </p>
-
-  <!-- <p align="center">
-    <a href="https://quine.sh?utm_source=widgets&utm_campaign=hades255">
-      <img width="600" src="https://stats.quine.sh/hades255/topics-over-time?theme=dark" alt="hades255's GitHub | Topics Over Time">
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://quine.sh?utm_source=widgets&utm_campaign=hades255">
-      <img width="600" src="https://stats.quine.sh/hades255/languages-over-time?theme=dark" alt="hades255's GitHub | Languages Over Time">
-    </a>
-  </p>  -->
-
+ 
   ![](https://github-profile-trophy.vercel.app/?username=hades255&theme=flat&column=-1&margin-w=8&margin-h=8)
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -88,21 +76,17 @@
     </a>
   </p>
 
-  <!-- <p>
-    <a href="https://holopin.io/@hades255">
-      <img src="https://holopin.me/hades255" alt="@hades255&#39;s Holopin board">
-    </a>
-  </p> -->
+  
 </details>
 
 ### Contact
 
 <p align="center">
-  <a href="tel:+19403603024" style="background-color: darkgreen; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>+1-940-360-3024</code></a>
-  <a href="mailto:montgasam@gmail.com" style="background-color: darkblue; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>montgasam@gmail.com</code></a>
-  <a href="mailto:hades.255@outlook.com" style="background-color: green; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>hades.255@outlook.com</code></a>
-  <a href="https://t.me/hades_255" style="background-color: darkred; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>@hades_255</code></a>
-  <a href="skype:live:.cid.a889e1fb12a8ca6f?chat" style="background-color: blue; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>live:.cid.a889e1fb12a8ca6f</code></a>
+   
+  <a href="mailto:shinnysmile0901@gmail.com" style="background-color: darkblue; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>shinnysmile0901@gmail.com</code></a>
+ 
+  <a href="https://t.me/happydevman" style="background-color: darkred; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>@happydevman</code></a>
+  <a href="skype:live:.cid.7a240599dbf162b3?chat" style="background-color: blue; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>live:.cid.7a240599dbf162b3</code></a>
 </p>
 
 <p align="center">
