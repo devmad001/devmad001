@@ -6,16 +6,16 @@
   <a href="#" target="_blank"><img src="./full.svg" alt="I'm a fullstack developer" width="50%" /></a>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Kenia&color=%2336BCF7F0&center=true&size=30" width="50%">
   <!-- <p align="center"> 
-    <a href="https://github.com/hades255">
-      <img id="preview" src="https://komarev.com/ghpvc/?username=hades255&color=green&style=for-the-badge">
+    <a href="https://github.com/devmad001">
+      <img id="preview" src="https://komarev.com/ghpvc/?username=devmad001&color=green&style=for-the-badge">
     </a>
   </p> -->
   <p align="center">
-    <a href="https://github.com/hades255?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hades255?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    <a href="https://github.com/devmad001?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/devmad001?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
-    <a href="https://github.com/hades255?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hades255?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <a href="https://github.com/devmad001?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/devmad001?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
   </p>
 </div>
@@ -45,39 +45,26 @@
     </a>
   </p>
   <p align="center">
-    <a href="https://github.com/hades255">
-      <img width="460" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hades255&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true">
+    <a href="https://github.com/devmad001">
+      <img width="460" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devmad001&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true">
     </a>
-    <a href="https://github.com/hades255">
-      <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hades255&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true">
+    <a href="https://github.com/devmad001">
+      <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmad001&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true">
     </a>
   </p>
  
-  ![](https://github-profile-trophy.vercel.app/?username=hades255&theme=flat&column=-1&margin-w=8&margin-h=8)
+  ![](https://github-profile-trophy.vercel.app/?username=devmad001&theme=flat&column=-1&margin-w=8&margin-h=8)
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="hades255's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hades255&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    <img alt="devmad001's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=devmad001&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
 
   <!-- ## Star History
 
-  [![Star History Chart](https://api.star-history.com/svg?repos=hades255/skyNet-visualizer-next-react-node-js,hades255/hades255,hades255/hades-evn-portfolio&type=Timeline)](https://star-history.com/#hades255/skyNet-visualizer-next-react-node-js&hades255/hades255&hades255/hades-evn-portfolio&Timeline) -->
+  [![Star History Chart](https://api.star-history.com/svg?repos=devmad001/skyNet-visualizer-next-react-node-js,devmad001/devmad001,devmad001/hades-evn-portfolio&type=Timeline)](https://star-history.com/#devmad001/skyNet-visualizer-next-react-node-js&devmad001/devmad001&devmad001/hades-evn-portfolio&Timeline) -->
 
 </details>
-
-<details> 
-  <summary><h2>Others</h2></summary>
-  
-  ![Hades's Codewars stats](https://www.codewars.com/users/hades255/badges/large)
-  
-  <p>
-    <a href="https://leetcode.com/hades255/">
-      <img width="400px" src="https://leetcode.card.workers.dev/hades255?theme=dark&font=baloo&extension=null&border=1&border_radius=8">
-    </a>
-  </p>
-
-  
-</details>
+ 
 
 ### Contact
 
