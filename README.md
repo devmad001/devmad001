@@ -66,15 +66,6 @@
 </details>
  
 
-### Contact
-
-<p align="center">
-   
-  <a href="mailto:shinnysmile0901@gmail.com" style="background-color: darkblue; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>shinnysmile0901@gmail.com</code></a>
- 
-  <a href="https://t.me/happydevman" style="background-color: darkred; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>@happydevman</code></a>
-  <a href="skype:live:.cid.7a240599dbf162b3?chat" style="background-color: blue; color:white; margin:0 0 10px 0; padding: 10px; border-radius: 5px;"><code>live:.cid.7a240599dbf162b3</code></a>
-</p>
 
 <p align="center">
   -✩- My Projects -✩-
