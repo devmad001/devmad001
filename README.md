@@ -3,8 +3,8 @@
 
 <div align="center">
   
-  <a href="#" target="_blank"><img src="./full.svg" alt="I'm a fullstack developer" width="50%" /></a>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Kenia&color=%2336BCF7F0&center=true&size=30" width="50%">
+  <a href="#" target="_blank"><img src="./full.svg" alt="I'm a Svelte & Flutter developer" width="50%" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Svelte+%26+Flutter+Developer&font=Kenia&color=%2336BCF7F0&center=true&size=30" width="50%">
   <!-- <p align="center"> 
     <a href="https://github.com/devmad001">
       <img id="preview" src="https://komarev.com/ghpvc/?username=devmad001&color=green&style=for-the-badge">
@@ -29,19 +29,42 @@
   </picture> -->
 </p>
 
-## Prefered Technics
+## Core Technologies
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="100" alt="Svelte">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="100" alt="Flutter">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="100" alt="Dart">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100" alt="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" alt="CSS3">
 </p>
+
+## Development Experience
+
+### Svelte Development
+- Building reactive web applications with SvelteKit
+- Creating reusable components and stores
+- Implementing responsive designs and animations
+- Working with Svelte's built-in state management
+- Integrating with various APIs and backend services
+
+### Flutter Development
+- Developing cross-platform mobile applications
+- Creating custom widgets and animations
+- Implementing state management solutions (Provider, Riverpod, Bloc)
+- Building responsive and adaptive UIs
+- Working with Firebase and other backend services
+- Optimizing app performance and implementing best practices
 
 <details>
   <summary>
-    <h2> Details </h2>
+    <h2> Additional Skills & Tools </h2>
   </summary>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img width="90%" src="https://skillicons.dev/icons?i=ai,aws,gcp,azure,html,css,js,jquery,bootstrap,materialui,svg,tailwind,threejs,webflow,php,laravel,docker,kubernetes,java,py,django,fastapi,nodejs,angular,react,redux,vue,electron,express,nestjs,nextjs,nuxtjs,ts,styledcomponents,babel,webpack,rocket,rollupjs,go,rust,sass,wordpress,graphql,regex,mongodb,mysql,sqlite,postgres,unity,c,cpp,cs,qt,ps,postman,powershell,bash,linux,md" />
+      <img width="90%" src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,firebase,postgres,mongodb,nodejs,express,linux,docker,aws" />
     </a>
   </p>
   <p align="center">
@@ -68,5 +91,5 @@
 
 
 <p align="center">
-  -✩- My Projects -✩-
+  -✩- Featured Projects -✩-
 </p>
