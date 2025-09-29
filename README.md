@@ -4,7 +4,7 @@
 <div align="center">
   
   <a href="#" target="_blank"><img src="./full.svg" alt="I'm a Svelte & Flutter developer" width="50%" /></a>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Svelte+%26+Flutter+Developer&font=Kenia&color=%2336BCF7F0&center=true&size=30" width="50%">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;RubyonRails+Developer&font=Kenia&color=%2336BCF7F0&center=true&size=30" width="50%">
   <!-- <p align="center"> 
     <a href="https://github.com/devmad001">
       <img id="preview" src="https://komarev.com/ghpvc/?username=devmad001&color=green&style=for-the-badge">
